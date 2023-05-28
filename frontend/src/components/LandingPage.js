@@ -1,4 +1,4 @@
-//give a good code for landing page here like remitly.com or mpesa.com
+//Landling page for the website
 
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
@@ -113,4 +113,7 @@ class LandingPage extends Component {
     mapStateToProps,
     { logoutUser }
     )(LandingPage);
+
+
+    
     
